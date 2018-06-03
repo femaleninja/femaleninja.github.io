@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Dexter Sealy
+name: Shiina Watanabe
 
 # Short bio or description (displayed in the header)
-description: Dats Scientist @ Metis
+description: App Academy
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/22937820?v=3&s=460
+avatar: https://avatars2.githubusercontent.com/u/38265188?s=400&u=02fca6407ec02c09559f0ef5df0c00607faee6af&v=4
 
 #
 # Flags below are optional
@@ -19,14 +19,14 @@ avatar: https://avatars3.githubusercontent.com/u/22937820?v=3&s=460
 footer-links:
   dribbble:
   email:
-  facebook:
-  flickr:
-  github: dextersealy
+  facebook: 100004180980403
+  flickr: undividedlooking
+  github: femaleninja
   instagram:
-  linkedin: dextersealy
+  linkedin: msteph
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: yatesdrexel
+  twitter: shiina_watanabe
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -41,7 +41,7 @@ google_analytics: UA-91159109-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.dextersealy.com
+url: http://www.shiinawatanabe.com
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
