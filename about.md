@@ -11,4 +11,4 @@ permalink: /about/
 Hello there! I’m a software architect who goes by the name Sheep. My background is that I live in Tsuruoka, Japan and studied computer science & electrical engineering at MIT (Class of 2013, Random Hall). Besides computer programming, I am also interested in mathematics, photography, and anime.
 ### Contact me
 
-[MITsucks@protonmail.ch](mailto:MITsucks@protonmail.ch)
+[wtp@mit.edu](mailto:MITsucks@protonmail.ch)
