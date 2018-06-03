@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<p>Hello! I’m Sheenana, a <a href="https://www.google.com/search?tbm=isch&amp;q=mahou+shoujo" title="Google image search: mahou shoujo" style="color:inherit"><del style="text-decoration:line-through">magical girl</del></a> software developer in 鶴岡市.</p>
+<p>Hello! I’m Sheenana, a <a href="https://www.google.com/search?tbm=isch&amp;q=mahou+shoujo" title="Google image search: mahou shoujo" style="color:inherit"><del style="text-decoration:line-through">magical girl</del></a> software developer in 鶴岡市, Canada.</p>
 		<p>My interests are in computer science and mathematics, and I strive to write clean, simple code for practical applications.</p>
 		<p>On this web site you will find my programming projects, mathematical ideas, various writings, and random work.</p>
-		
+		<p><a href="/page/about">(more about me and contact info)</a></p>
 
 ### More Information
 
