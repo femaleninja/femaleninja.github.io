@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<p>Hello! I’m <a href="http://angelbeats.wikia.com/wiki/Shiina" title="Google image search: mahou shoujo" style="color:inherit"><del style="text-decoration:underline">Sheep</del></a>, a <a href="https://www.google.com/search?tbm=isch&amp;q=mahou+shoujo" title="Google image search: mahou shoujo" style="color:inherit"><del style="text-decoration:line-through">magical girl</del></a> software architect in 鶴岡市.</p>
+<p>Hello! I’m <a href="http://angelbeats.wikia.com/wiki/Shiina" title="Google image search: mahou shoujo" style="color:inherit"><del style="text-decoration:underline">Sheep</del></a>, a <a href="https://www.google.com/search?tbm=isch&amp;q=mahou+shoujo" title="Google image search: mahou shoujo" style="color:inherit"><del style="text-decoration:line-through">magical girl</del></a> software architect in <a href="https://www.city.tsuruoka.lg.jp" title="Google image search: mahou shoujo" style="color:inherit"><del style="text-decoration:bold">鶴岡市</del></a>.</p>
 
 ### More Information
 
