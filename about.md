@@ -8,8 +8,7 @@ permalink: /about/
 
 ### More Information
 
-Shiina (椎菜, Shiina) is a member of the Afterlife War Front and a "self-proclaimed female ninja" who fights with traditional Japanese weapons such as dual-wielding kodachi and shuriken. She acts as one of the front liners of the club and is an enigmatic character whose past is covered in mystery.
-
+Hello there! I’m a software architect who goes by the name Sheep. My background is that I live in Tsuruoka, Japan and studied computer science & electrical engineering at MIT (Class of 2013, Random Hall). Besides computer programming, I am also interested in mathematics, photography, and anime.
 ### Contact me
 
 [MITsucks@protonmail.ch](mailto:MITsucks@protonmail.ch)
