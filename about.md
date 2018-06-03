@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I write code.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Shiina (椎菜, Shiina) is a member of the Afterlife War Front and a "self-proclaimed female ninja" who fights with traditional Japanese weapons such as dual-wielding kodachi and shuriken. She acts as one of the front liners of the club and is an enigmatic character whose past is covered in mystery.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[MITsucks@protonmail.ch](mailto:MITsucks@protonmail.ch)
