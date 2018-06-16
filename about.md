@@ -12,4 +12,4 @@ My background is that I live in Tsuruoka, Japan. Although I never attended MIT, 
 
 ### Contact me
 
-[eeeeeeeeeeeee@protonmail.ch](mailto:eeeeeeeeeeeee@protonmail.ch)
+[shiina@femaleninja.io](mailto:shiina@femaleninja.io)
