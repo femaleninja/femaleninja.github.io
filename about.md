@@ -13,3 +13,7 @@ My background is that I live in Tsuruoka, Japan. Although I never attended MIT, 
 ### Contact me
 
 [shiina@femaleninja.io](mailto:shiina@femaleninja.io)
+
+###Portfolio
+
+[femaleninja.herokuapp.com](http://femaleninja.herokuapp.com/#/)
