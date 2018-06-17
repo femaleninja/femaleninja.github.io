@@ -8,12 +8,8 @@ permalink: /about/
 
 ### More Information
 
-My background is that I live in Tsuruoka, Japan. Although I never attended MIT, I have attended similar programs, loved them, and they are the reason for my interest in EECS and math. Besides computer programming, I play the piano and love making, playing, and writing music. In my free time, I like to play frisbee, climb, skate, paint, and pretend to parkour. I am also interested in mathematics (prime numbers), photography, critters, colors, plants, heavy rainstorms, anime and overworking. Feel free to email me if you guys are unbearably excited. :)
+My background is that I live in Tsuruoka, Japan. Although I never attended MIT, I have attended similar programs, loved them, and they are the reason for my interest in EECS and math. Besides computer programming, I play the piano and love making, playing, and writing music. In my free time, I like to play frisbee, climb, skate, paint, and pretend to parkour. I am also interested in mathematics (prime numbers), photography, critters, colors, plants, heavy rainstorms, anime and overworking. Feel free to email me if you guys are unbearably excited. You can access my portfolio [here](http://femaleninja.herokuapp.com/#/):)
 
 ### Contact me
 
 [shiina@femaleninja.io](mailto:shiina@femaleninja.io)
-
-###Portfolio
-
-[femaleninja.herokuapp.com](http://femaleninja.herokuapp.com/#/)
